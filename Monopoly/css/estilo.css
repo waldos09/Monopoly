@@ -1,0 +1,74 @@
+.principal {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.comandos {
+    display: inline-block;
+    border: 1px solid lightcoral;
+    min-height: 300px;
+    vertical-align: top;
+    width: 25%;
+}
+
+.tablero {
+    border: 1px solid lightseagreen;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+
+.tab {
+    font-size: 3em;
+    height: 80px;
+    margin: 10px;
+    width: 80px;
+}
+
+.go {
+    font-size: 0.5em;
+    margin-top: 2em;
+    padding: 0.7em;
+}
+
+.txt {
+    font-size: 1em;
+    margin: .2em;
+    padding: .1em;
+}
+
+label {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.botonInicial {
+    color: #77d;
+    background-color: #77d;
+    font-size: 3em;
+    height: 80px;
+    margin: 10px;
+    width: 80px;
+}
+
+.botonJugador1 {
+    color: whitesmoke;
+    background-color: #d77;
+    font-size: 3em;
+    height: 80px;
+    margin: 10px;
+    width: 80px;
+}
+
+.botonJugador2 {
+    color: whitesmoke;
+    background-color: #7d7;
+    font-size: 3em;
+    height: 80px;
+    margin: 10px;
+    width: 80px;
+}

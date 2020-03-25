@@ -1,0 +1,25 @@
+* { 
+	margin:0; padding:0;
+ } 
+
+html, body 
+{
+
+ background-color: black;
+} 
+
+#canvas
+{
+	margin-left: 1%;
+	margin-top: 0.75%;
+	width:97.5%;
+ 	height:96%; 
+	background-color: black;
+	border:solid white 5px;
+	position: absolute; 
+}
+
+@font-face {
+  font-family:"bit5x3";
+  src: url("../multimedia/bit5x3.ttf") format("truetype");
+}
